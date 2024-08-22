@@ -1,0 +1,12 @@
+my_list = []
+age =input("Your age: ")
+name = input("Your name: ")
+lastname = input("Your Lastname: ")
+address = input("Your address: ")
+email = input("Your email: ")
+my_list.append(age)
+my_list.append(name)
+my_list.append(lastname)
+my_list.append(address)
+my_list.append(email)
+print(my_list)
