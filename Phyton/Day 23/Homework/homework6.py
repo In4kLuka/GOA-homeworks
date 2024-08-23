@@ -1,0 +1,1 @@
+# Ver gavige davaleba ras mavalebda
