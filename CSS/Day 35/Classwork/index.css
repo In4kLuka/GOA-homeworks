@@ -1,0 +1,11 @@
+header b{
+    color: darkgreen;
+}
+
+div i{
+    color:lightcoral;
+}
+
+header,div,p{
+    text-align: center;
+}
