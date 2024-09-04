@@ -1,0 +1,58 @@
+div{
+    width: 70%;
+    text-align: justify;
+    
+}
+
+.hello{
+    text-align: right;
+    text-decoration: underline dotted #018622;
+}
+
+
+.world{
+    text-align: center;
+    text-decoration: line-through;
+}
+
+.doubled{
+    text-align: left;
+    text-decoration: overline double #ff0000;
+}
+
+.goal{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.oriented{
+    text-align: right;
+    text-decoration: line-through dotted #018622 ;
+}
+
+.academy{
+    text-align: left;
+    text-decoration: line-through;
+}
+
+.is{
+    text-align: left;
+    text-decoration: overline;
+}
+
+.the{
+    color: #018622;
+    text-align: right;
+    text-decoration: overline #018622;
+}
+
+.best{
+    color: #808080;
+    text-align: center;
+    text-decoration: overline #808080;
+}
+
+.one{
+    text-align: right;
+    text-decoration: underline dotted #018622;
+}
