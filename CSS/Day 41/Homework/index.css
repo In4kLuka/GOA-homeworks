@@ -1,0 +1,47 @@
+body{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+ul {
+    display:flex;
+    gap: 20px;
+}
+
+
+nav{
+    color:chartreuse;
+    border:10px;;
+}
+
+.home:hover{
+    color: #00e034;
+    font-size: 20px;
+}
+
+.about:hover{
+    color: #00e034;
+    font-size: 20px;
+}
+
+.contact:hover{
+    color: #00e034;
+    font-size: 20px;
+}
+
+.feedback:hover{
+    color: #00e034;
+    font-size: 20px;
+}
+
+.staff:hover{
+    color: #00e034;
+    font-size: 20px;
+}
+
+
+
+
