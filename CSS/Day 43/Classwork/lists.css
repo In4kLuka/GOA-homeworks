@@ -1,0 +1,11 @@
+*{
+    font-family: sans-serif;
+}
+
+ul{
+    list-style: circle inside none;
+}
+
+ol{
+    list-style-type: lower-alpha;
+}

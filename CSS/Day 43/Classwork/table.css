@@ -1,0 +1,33 @@
+*{
+    font-family: sans-serif;
+}
+
+table{
+    border: 1px solid white;
+    border-collapse: collapse;
+    border-radius: 5px;
+    overflow: hidden;
+    width: 350px;
+    box-shadow:0 0 20px black;
+    border-style: none;
+}    
+
+th{
+    background-color: rgb(86, 149, 86);
+    color: white;
+}
+
+.special{
+    background-color: lightgrey;
+    color:  rgb(86, 149, 86);
+}
+
+td,th{
+    padding: 10px;
+    font-weight: 100;
+    font-size: 12px;
+}
+
+body{
+    background-color:white;
+}

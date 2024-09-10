@@ -1,0 +1,43 @@
+*{
+    font-family: sans-serif;
+}
+
+table{
+    border-collapse: collapse;
+    width: 500px;
+    font-size: 10px;
+    box-shadow:0 0 20px rgb(207, 131, 38);
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+th{
+    font-size: 11px;
+    background-color: rgb(251, 99, 76);
+    color: white;
+    text-align: left;
+    padding: 5px;
+}
+
+tr:nth-child(odd){
+    background-color: lightgrey;
+}
+tr td{
+    padding: 5px;
+}
+
+.table2{
+    box-shadow: 0 0 20px green;
+}
+
+.table2 th{
+    background-color: rgb(52, 138, 52);
+}
+
+.table3{
+    box-shadow: 0 0 20px rgb(36, 110, 189);
+}
+
+.table3 th{
+    background-color: rgb(25, 139, 184);
+}
