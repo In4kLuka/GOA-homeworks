@@ -1,0 +1,61 @@
+*{
+    font-family: sans-serif;
+}
+.container{
+    display: flex;
+    justify-content:space-around;
+    text-align: center;
+}
+
+.jewelery{
+    width: 400px;
+    height:400px;
+    background-image: url(jewel.jpg) ;
+    color:white;
+    justify-content:space-around;
+    align-content: center;
+    font-size: 15px;
+}
+
+.jewelery button{
+    width: 100px ;
+    height: 50px;
+    background-color: white;
+    border-radius: 5px;    
+}
+
+
+.men{
+    width: 400px;
+    height:400px;
+    background-image: url(clothing.jpg) ;
+    color:white;
+    justify-content:space-around;
+    align-content: center;
+    font-size: 15px;
+}
+
+.men button{
+    width: 100px ;
+    height: 50px;
+    background-color: white;
+    border-radius: 5px;    
+}
+
+
+.women{
+    width: 400px;
+    height:400px;
+    background-image: url(clothing-woman.jpg) ;
+    color:white;
+    justify-content:space-around;
+    align-content: center;
+    font-size: 15px;
+}
+
+.women button{
+    width: 100px ;
+    height: 50px;
+    background-color: white;
+    border-radius: 5px;  
+}
